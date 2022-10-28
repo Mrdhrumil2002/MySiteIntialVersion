@@ -11,7 +11,7 @@ import {
   Row,
   Col,
   Container,
-  CarouselItem,
+  CarouselItem, 
   Carousel
 } from "react-bootstrap";
 import { Navigation, Pagination, Scrollbar, Mousewheel, A11y } from "swiper";
